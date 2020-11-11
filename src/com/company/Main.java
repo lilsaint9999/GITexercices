@@ -3,6 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	System.Out.Printline{"First change made from gitHub acc"}
+	System.out.println("First change made from gitHub acc");
+	// your syntax's not good
     }
 }
